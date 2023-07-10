@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kayla</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate and aspiring frontend developer!</h3>
 
 - 🔭 I’m currently working on **the Odin Project**
